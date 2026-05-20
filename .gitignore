@@ -29,7 +29,6 @@ downloads/
 screenshots/
 ffmpeg_extracted/
 transcript*.json
-*.md
 
 # IDE
 .vscode/
