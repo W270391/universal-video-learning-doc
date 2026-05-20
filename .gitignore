@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Video files (too large for git)
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wav
+*.m4a
+*.mp3
+
+# Processed data
+downloads/
+screenshots/
+ffmpeg_extracted/
+transcript*.json
+*.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

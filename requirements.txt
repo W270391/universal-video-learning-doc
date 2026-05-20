@@ -1,0 +1,6 @@
+openai-whisper>=20231117
+opencv-python>=4.8.0
+pytesseract>=0.3.10
+moviepy>=1.0.3
+Pillow>=10.0.0
+yt-dlp>=2024.1.1
